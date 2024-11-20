@@ -6,9 +6,11 @@
 
 
 <h2> 👨‍🎓 &nbsp;About Me: </h2>
+
 <p
 **richeek05/richeek05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.>
-- 🔭 University of Alberta (2020-2024): Bachelor of Science with Specialization in Computing Science.<br>
+- 💼 Consultant @CGI. <br>
+- 🔭 University of Alberta (2024): Bachelor of Science with Specialization in Computing Science.<br>
 - 📫 How to reach me: richeek@ualberta.ca <br>
 - 😄 Pronouns: He/Him <br>
 </p>
